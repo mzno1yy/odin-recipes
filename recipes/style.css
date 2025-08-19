@@ -1,0 +1,37 @@
+.header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  color: #31525b;
+}
+
+.section {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #ffa101;
+  background-color: #fae6b1;
+  padding: 5px 10px;
+  font-size: 20px;
+  font-style: italic;
+}
+
+a {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', monospace;
+  font-size: 17px;
+  color: #e8c374;
+}
+
+a:hover {
+  color: #fae6b1;
+}
+
+.desc {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', monospace;
+  font-size: 17px;
+  color: #31525b;
+}
+
+li {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', monospace;
+  font-size: 17px;
+  color: #242727;
+}
+
